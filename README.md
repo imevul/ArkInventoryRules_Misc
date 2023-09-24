@@ -8,8 +8,10 @@ Misc useful rule functions for ArkInventory:
 
 ## Dependencies
 
+- ArkInventory
 - ArkInventoryRules
 
 ## Installation
 
-Extract to Interface/AddOns and enable the addon in-game
+1. Download the [latest release](https://github.com/imevul/ArkInventoryRules_Misc/releases)
+2. Extract to Interface/AddOns and enable the addon in-game
